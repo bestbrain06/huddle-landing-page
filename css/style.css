@@ -99,7 +99,7 @@ p {
 }
 
 /* DESKTOP MODE */
-@media screen and (min-width: 1024px) {
+@media (min-width: 1024px) {
   body {
     background: url(../images/bg-desktop.svg), var(--Violet);
     background-size: cover;
